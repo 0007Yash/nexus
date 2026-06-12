@@ -1,7 +1,7 @@
 import { motion, AnimatePresence } from "framer-motion";
 import { useMemo, useState } from "react";
 
-export default function Nexus PrimeWebsite() {
+export default function NexusPrimeWebsite() {
   const [activeCommandTab, setActiveCommandTab] = useState("Music");
   const [showInvitePopup, setShowInvitePopup] = useState(false);
 
